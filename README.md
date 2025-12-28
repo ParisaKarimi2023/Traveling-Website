@@ -6,4 +6,4 @@ the project demonstrates practical applications of web development, database man
 
 ------
 
-You Can see [This site](https://github.com/ParisaKarimi2023/Traveling-Website.git) as online
+You Can see [This site](https://github.com/ParisaKarimi2023/Traveling-Website.git)
